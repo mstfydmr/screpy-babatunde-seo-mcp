@@ -72,13 +72,14 @@ The largest category, providing access to search engine results, SERP data, and 
 | **exa-labs/exa-mcp-server** | [GitHub](https://github.com/exa-labs/exa-mcp-server) | Unknown | Unknown | Unknown | Exa AI Search API integration for real-time web information access |
 | **apify/mcp-server-rag-web-browser** | [GitHub](https://github.com/apify/mcp-server-rag-web-browser) | Unknown | Unknown | Unknown | Web searches and URL scraping with Markdown output via Apify |
 
-### 4. Content Optimization Tools (2 servers)
+### 4. Content Optimization Tools (3 servers)
 Servers providing content analysis, optimization recommendations, and quality assessment.
 
 | Server Name | Link | Programming Language | Last Commit | Description |
 |---|---|---|---|---|
 | **DataForSEO MCP Server** | [GitHub](https://github.com/dataforseo/mcp-server-typescript) | TypeScript | Jun 17, 2025 | Content analysis and generation APIs for SEO optimization |
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | SEO content optimization API with plagiarism detection |
+| **nowork-studio/NotFair** | [GitHub](https://github.com/nowork-studio/NotFair) | TypeScript | Jun 2025 | Open-source Claude Code agent skills (~2.9k stars) for SEO, content writing, and paid-ads workflows; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 
 ### 5. Technical SEO Analysis (3 servers)
 Servers for technical website analysis, crawling, and indexability assessment.
